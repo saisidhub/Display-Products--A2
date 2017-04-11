@@ -1,0 +1,33 @@
+﻿[
+  {
+    "id": 1001,
+    "product": "DELL",
+    "price": "29000"
+  },
+  {
+    "id": 1002,
+    "product": "HP",
+    "price": "25000"
+  },
+  {
+    "id": 1003,
+    "product": "AOC",
+    "price": "32000"
+
+  },
+  {
+    "id": 1004,
+    "product": "LENOVO",
+    "price": "26000"
+
+
+  },
+  {
+    "id": 1005,
+    "product": "ASUS",
+    "price": "24900"
+
+
+  }
+
+]

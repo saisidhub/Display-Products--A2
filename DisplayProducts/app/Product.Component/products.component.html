@@ -1,0 +1,17 @@
+﻿
+<h2>Products</h2>
+<div *ngIf="products">
+    <table class="table table-striped table-responsive table-hover">
+        <th>Id</th>
+        <th>Product</th>
+        <th>Price</th>
+        <tbody  *ngFor="let asd of products">
+            <tr>
+                <td>{{asd.id}}</td>
+                <td>{{asd.product}}</td>
+                <td>{{asd.price}}</td>
+
+            </tr>
+        </tbody>
+    </table>
+  </div>
